@@ -1,0 +1,28 @@
+{
+  "name": "emberstone",
+  "displayName": "Emberstone",
+  "author": "samYorel (https://github.com/Emberstone-theme/vscode)",
+  "publisher": "Emberstone-Theme",
+  "description": "A vibrant, dark theme with warm accents to boost focus. Designed for those seeking a solid, lively environment that’s easy on the eyes.",
+  "version": "0.0.1",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emberstone-theme/vscode"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emberstone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emberstone-dark-theme.json"
+      }
+    ]
+  }
+}
