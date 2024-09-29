@@ -6,6 +6,7 @@
 
 <div align="center">
 
+[![Install from Marketplace](https://img.shields.io/badge/Visual_Studio_Code-Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=Emberstonetheme.emberstone "License")
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "License")
 ![Contributions - welcome](https://img.shields.io/badge/Contributions-welcome-blueviolet)
 
@@ -23,9 +24,7 @@ A vibrant, dark theme with warm accents to boost focus. Designed for those seeki
 
 ### From marketplace
 
-This theme is not yet published on Microsoft Marketplace.
-
-It is planned to be released soon.
+Install from Marketplace : https://marketplace.visualstudio.com/items?itemName=Emberstonetheme.emberstone
 
 ### From sources
 
