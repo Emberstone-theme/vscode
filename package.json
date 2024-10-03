@@ -4,7 +4,7 @@
   "author": "samYorel (https://github.com/Emberstone-theme/vscode)",
   "publisher": "Emberstonetheme",
   "description": "A vibrant, dark theme with warm accents to boost focus. Designed for those seeking a solid, lively environment that’s easy on the eyes.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "licence": "MIT",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
     "themes": [{
       "label": "Emberstone",
       "uiTheme": "vs-dark",
-      "path": "./themes/Emberstone-dark-theme .json"
+      "path": "./themes/Emberstone-dark-theme.json"
     }]
   }
 }
